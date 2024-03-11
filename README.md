@@ -1,0 +1,1 @@
+# HotelMan_HotelAdmin
